@@ -15,9 +15,9 @@ Example usage:
     #### Header four
 
     Sub-header one
-    ==========
+    ====
     Sub-header two
-    ---------
+    ---
 
 Italics and Bold
 ---
@@ -33,3 +33,34 @@ Example usage:
 
 Lists and nested lists
 ---
+* Lists can either be ordered or unordered.
+* To create an ordered list begin the list item with ```n.``` where ```n``` is the number of the list item.
+* To create an unordered list being each item with an ```*```.
+* Lists can be nested by using white space to indent the nested items.
+
+Example usage:
+    
+    1. Lather
+    2. Rinse
+    3. Repeat
+    
+    * Milk
+    * Eggs
+    * Cheese
+
+    1. Lather
+        * with milk
+    2. Rinse
+        * the eggs
+    3. Repeat
+        * and eat the cheeese
+
+Block Quotes
+---
+* Block quotes can be used by appening ```>``` to anything that should be within the block quote.
+
+Example usage:
+
+    > This is inside of the quote.
+    > And so is this.
+    > Also this.
