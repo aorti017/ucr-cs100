@@ -1,6 +1,6 @@
 Markdown Quick Reference Guide
 ===
-This is a wuck reference guide for various Markdown syntax. Please enjoy!
+This is a quick reference guide for various Markdown syntax that I found useful through out cs100. Please enjoy!
 
 Headings
 ---
@@ -19,10 +19,11 @@ Example usage:
     Sub-header two
     ---
 
-Italics and Bold
+Italics, Bold, and Crossed out.
 ---
-* Specific words or whole phrases can be italicized by wrapping it in ```*``` or ```_```.
-* Specific words or whole phrases can be italicized by wrapping it in ```**``` or ```__```.
+* Specific words or whole sentences can be italicized by wrapping it in ```*``` or ```_```.
+* Specific words or whole sentences can be bolded by wrapping it in ```**``` or ```__```.
+* Specific words or whole sentences can be crossed out by wrapping it in ```~~```. 
 * These effects can be combined.
 
 Example usage:
@@ -30,7 +31,7 @@ Example usage:
     Those words are *italicized*.
     Those words are **bolded**.
     Those words are **_bolded and italicized_**.
-
+    I think ~~your~~ you're bad at grammar.
 Lists and nested lists
 ---
 * Lists can either be ordered or unordered.
