@@ -2,6 +2,14 @@ Markdown Quick Reference Guide
 ===
 This is a quick reference guide for various Markdown syntax that I found useful through out cs100. Please enjoy!
 
+Creating a Markdown Document
+---
+* To create a Markdown document you would create it the same way you would any other file but the file extension would be ```.md```
+
+Example usage:
+
+    touch README.md
+
 Headings
 ---
 * Prefix ```#``` to what you want your heading to be, the more ```#``` prefixed the smaller the heading will be
