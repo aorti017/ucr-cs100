@@ -64,3 +64,29 @@ Example usage:
     > This is inside of the quote.
     > And so is this.
     > Also this.
+
+Code
+---
+* To insert code into your Mardkwon documents surrounding the code with at least 1 `` ` `` on each side.
+* You can indacte syntac highlighting specific to a language by adding the name of the language after the opening `` ` ``s, for this to work you must use at least 3 `` ` ``.
+
+Example usage:
+    
+    ``cout << "Hello, world!" << endl;``
+    
+    ```python
+    x = "Hello, world!"
+    print x
+    ```
+Links and Images
+---
+* Links can be embedded through the syntax ```[word or words](the link)```
+* Images can be inserted with the syntax ```![alt text](url or path of image)```
+
+Example usage:
+
+    [This link will take you to a website!](https://google.com)
+    
+    Only the last word will take you to a [website](https://google.com)
+    
+    ![alt text](http://upload.wikimedia.org/wikipedia/en/c/c8/Alan_Turing_photo.jpg)
