@@ -5,7 +5,7 @@ This is a quick reference guide for various Markdown syntax that I found useful 
 Headings
 ---
 * Prefix ```#``` to what you want your heading to be, the more ```#``` prefixed the smaller the heading will be
-* Headers can be underlined using ```=``` or ```-```.
+* Headers can also be established by using ```=``` or ```-``` underneath the header.
 
 Example usage:
 
@@ -14,9 +14,9 @@ Example usage:
     ### Header three
     #### Header four
 
-    Sub-header one
+    Header one
     ====
-    Sub-header two
+    Header two
     ---
 
 Italics, Bold, and Crossed out.
@@ -79,6 +79,7 @@ Example usage:
     x = "Hello, world!"
     print x
     ```
+    
 Links and Images
 ---
 * Links can be embedded through the syntax ```[word or words](the link)```
@@ -91,3 +92,20 @@ Example usage:
     Only the last word will take you to a [website](https://google.com)
     
     ![alt text](http://upload.wikimedia.org/wikipedia/en/c/c8/Alan_Turing_photo.jpg)
+
+HTML
+---
+* Raw HTML can be placed directly into oyur Markdown document.
+
+Example usage:
+
+    <table>
+        <tr>
+            <th>Dogs</th>
+            <th>Cats</th>
+        </tr>
+        <tr>
+            <td>not enough</td>
+            <td>too many</td>
+        </tr>
+    </table>
