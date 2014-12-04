@@ -93,9 +93,18 @@ Example usage:
     
     ![alt text](http://upload.wikimedia.org/wikipedia/en/c/c8/Alan_Turing_photo.jpg)
 
+Escaping
+---
+* A set amount of predetermine characters can be excaped by adding a ```\``` before it.
+* Those characters are as follows: `\`, `` ` ``, `*`, `_`, `{}`, `[]`, `()`, `#`, `>`, `+`, `-`, `.`, and `!`.
+
+Example usage:
+    
+    \` This will not appear as code! \`
+
 HTML
 ---
-* Raw HTML can be placed directly into oyur Markdown document.
+* Raw HTML can be placed directly into your Markdown document.
 
 Example usage:
 
