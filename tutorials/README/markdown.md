@@ -88,7 +88,7 @@ Code
 
 Example usage:
     
-    `` `These `'s wont be interpreted!` ``
+    `` `These `'s won't be interpreted!` ``
 
     ``cout << "Hello, world!" << endl;``
     
