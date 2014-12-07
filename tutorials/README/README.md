@@ -1,19 +1,26 @@
 README
 ---
-This is by no means an all inclusive list of everything you should have in your README.
+* This is by no means an all inclusive list of everything you should have in your README.
+* READMEs can be written in Markdown(```.md```) or a textfile (```.txt```).
 
-Authors
+Example
 ---
-* List the authors of the README's project.
-  * Unless someone has directly contributed to your project they are **not** a contributor or author.
+* Include an example of what your project can do, something that will grab the attention of some one who just happened upon
+  your repository.
 
 Program Overview
 ---
-* Give a brief description of what your project is and what it is inteded to do.
+* Give a brief description of what your project is and what it is intended to do.
 
-Prerequites
+How to use
 ---
-* List all the prerequistes needed to run your project.
+* Describe how to use your program.
+* You can, but are not required to, include example code.
+
+Prerequisites
+---
+* List any special or third party prerequisites needed to run your project.
+* If no unoridnary prerequisites are needed this section is not necessary.
 
 Installation guide
 ---
@@ -21,7 +28,7 @@ Installation guide
 * It is better to explicitly list the commands needed rather then describe the steps. 
   * E.g. ```make``` as opposed to "run make".
 
-How to use
+Bug and Limitations
 ---
-* Describe how to use your program.
-* You can, but are not required to, include example code.
+* Explicitly list all of the know bugs in your project.
+* If there are any known limitations, explicitly list those as well.
