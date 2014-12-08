@@ -28,7 +28,7 @@ Installation guide
 * It is better to explicitly list the commands needed rather then describe the steps. 
   * E.g. ```make``` as opposed to "run make".
 
-Bug and Limitations
+Bug/Limitations/Issues
 ---
-* Explicitly list all of the know bugs in your project.
-* If there are any known limitations, explicitly list those as well.
+* Explicitly list all of the known bugs in your project.
+* If there are any known limitations or issues, explicitly list those as well.
