@@ -4,9 +4,9 @@ This is a quick reference guide for various Markdown syntax that I found useful 
 
 Flavors
 ---
-* There are a vareity of Markdown "flavors". Which, put simply, are different implementations of Markdown. 
+* There are a variety of Markdown "flavors". Which, put simply, are different implementations of Markdown. 
 * Recently there has been a push for a standard implementation of Markdown, but for the time being there are multiple          implementations that must be recognized.
-* The following tutorial is guaranteed to interpret correctly as Github falvored Markdown. But, the same results can not be    guaranteed when interpreted as any other flavor of Markdown.
+* The following tutorial is guaranteed to interpret correctly as Github flavored Markdown. But, the same results can not be    guaranteed when interpreted as any other flavor of Markdown.
 
 Creating a Markdown Document
 ---
@@ -68,11 +68,11 @@ Example usage:
     2. Rinse
         * the eggs
     3. Repeat
-        * and eat the cheeese
+        * and eat the cheeses
 
 Block Quotes
 ---
-* Block quotes can be used by appening ```>``` to anything that should be within the block quote.
+* Block quotes can be used by appending ```>``` to anything that should be within the block quote.
 
 Example usage:
 
@@ -82,8 +82,8 @@ Example usage:
 
 Code
 ---
-* To insert code into your Mardkwon documents surrounding the code with at least 1 `` ` `` on each side.
-* You can indacte syntac highlighting specific to a language by adding the name of the language after the opening `` ` ``s, for this to work you must use at least 3 `` ` ``.
+* To insert code into your Markdown documents surrounding the code with at least 1 `` ` `` on each side.
+* You can indicate syntax highlighting specific to a language by adding the name of the language after the opening `` ` ``s, for this to work you must use at least 3 `` ` ``.
 * Being able to use varying amounts of ``` ` ``` means that  ``` ` ``` can be used to escape ``` ` ```.
 
 Example usage:
